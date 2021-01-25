@@ -1,358 +1,91 @@
-Skip main navigation
-Family Search	
-Family Tree
- 
-Search
- 
-Memories
- 
-Indexing
-  
-Records Family Tree Genealogies Catalog Books Wiki
+Name: Lewis Griggs
+Event Type: Census
+Event Date: 1900
+Event Year: 1900
+Event Place: United States
+Event Place (Original): ED 9 Wades Township South Wadesboro town
+Gender: Male
+Age: 53
+Marital Status: Married
+Race: White
+Race (Original): W
+Years Married: 31
+Birth Date: Feb 1847
+Birthplace: North Carolina
+Marriage Year (Estimated): 1869
+Father's Birthplace: North Carolina
+Mother's Birthplace: North Carolina
+Relationship to Head of Household: Head
+Relationship to Head of Household (Original): Head
+Sheet Letter: A
+Sheet Number: 3
 
 
-Female
-Sadie Frances Teal
-1903–1982	 • 	L6F7-1D9??
-
-Show More
-Birth
-25 February 1903
-Morven Township, Anson, North Carolina, United States
-Death
-22 November 1982
-North Carolina, United States
-Spouse
-Male
-Sidney Browten Lowery
-Parents
-Male
-William Ezekiel Teal
-Female
-Sarah Elizabeth Griggs
-Name editing is now available on some of our historical records. We are working diligently to make more records editable. You can access this feature if there is a blue “Edit” link next to a name. To learn more about editing names click here.
-
-Sarah Teal
-United States Census, 1910
-
-
-
-
-
-Name:	
-Sarah Teal
-Event Type:	
-Census
-Event Date:	
-1910
-Event Place:	
-Court House, Chesterfield, South Carolina, United States
-Gender:	
-Female
-Age:	
-7
-Marital Status:	
-Single
-Race:	
-White
-Race (Original):	
-White
-Relationship to Head of Household:	
-Granddaughter
-Relationship to Head of Household (Original):	
-Granddaughter
-Birth Year (Estimated):	
-1903
-Birthplace:	
-North Carolina
-Father's Birthplace:	
-North Carolina
-Mother's Birthplace:	
-South Carolina
-Sheet Letter:	
-B
-Sheet Number:	
-5
 Household	Role	Sex	Age	Birthplace
-John W Griggs	Head	Male	73	South Carolina
-Francis Griggs	Wife	Female	72	South Carolina
-Sallie Teal	Daughter	Female	39	South Carolina
-Annie M Teal	Granddaughter	Female	15	South Carolina
-Julia Teal	Grandson	Male	13	North Carolina
-John Teal	Grandson	Male	11	North Carolina
-Sarah Teal	Granddaughter	Female	7	North Carolina
-Paul Teal	Grandson	Male	5	North Carolina
-Attached to:
+Lewis Griggs	Head	M	53	North Carolina
+Harriet Griggs	Wife	F	50	North Carolina
+Hattie M Griggs	Daughter	F	14	North Carolina
+Nora W Griggs	Daughter	F	11	South Carolina
+John Vick	Boarder	M	34	North Carolina
 
-Sadie Frances Teal
-1903–1982	 • 	L6F7-1D9??
-Image of Sarah Teal in household of John W Griggs, United States Census, 1910
-View the original document. The original may contain more information than was indexed.
+District: 9
+Sheet Number and Letter: 3A
+Household ID: 29
+Line Number: 1
+Affiliate Name: The U.S. National Archives and Records Administration (NARA)
+Affiliate Publication Number: T623
+GS Film Number: 1241181
+Digital Folder Number: 004117792
+Digital Folder Number: 004117792
+Image Number: 00739
+Indexing Project (Batch) Number: N00740-3
+Record Number: 36035
 
-Record Collection:
-
-United States Census, 1910
-
-
-Document Information:
-District	ED 37
-Sheet Number and Letter	5B
-Household ID	86
-Affiliate Name	The U.S. National Archives and Records Administration (NARA)
-Affiliate Publication Number	T624
-Affiliate Film Number	1455
-GS Film Number	1375468
-Digital Folder Number	004985511
-Image Number	00918
 Citing this Record
-"United States Census, 1910," database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:M5DG-DM8 : accessed 17 October 2019), Sarah Teal in household of John W Griggs, Court House, Chesterfield, South Carolina, United States; citing enumeration district (ED) ED 37, sheet 5B, family 86, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1455; FHL microfilm 1,375,468.
+"United States Census, 1900," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MSTK-C6G : accessed 24 January 2021), Lewis Griggs, United States; citing enumeration district (ED) 9, sheet 3A, family 29, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,181.
 
-Similar Historical Records
-No similar records were found.
-
-About Blog Feedback Site Map Solutions Gallery Cookie Preferences English
-FamilySearch Terms of Use (Updated 2018-09-01) | Privacy Notice (Updated 2018-09-01)
-© 2019 by Intellectual Reserve, Inc. All rights reserved. A service provided by The Church of Jesus Christ of Latter-day Saints
-
-
-
-
-Skip main navigation
-Family Search	
-Family Tree
- 
-Search
- 
-Memories
- 
-Indexing
-  
-Records Family Tree Genealogies Catalog Books Wiki
-
-
-Female
-Sadie Frances Teal
-1903–1982	 • 	L6F7-1D9??
-
-Show More
-Birth
-25 February 1903
-Morven Township, Anson, North Carolina, United States
-Death
-22 November 1982
-North Carolina, United States
-Spouse
-Male
-Sidney Browten Lowery
-Parents
-Male
-William Ezekiel Teal
-Female
-Sarah Elizabeth Griggs
-Name editing is now available on some of our historical records. We are working diligently to make more records editable. You can access this feature if there is a blue “Edit” link next to a name. To learn more about editing names click here.
-
-Sarah F Teal
-United States Census, 1920
+Name: Lewis Griggs
+Event Type: Census
+Event Date: 1880
+Event Place: Anson, North Carolina, United States
+Event Place (Original): Anson, NC
+Gender: Male
+Age: 33
+Marital Status: Married
+Race: White
+Race (Original): W
+Occupation: Farmer
+Birth Year (Estimated): 1847
+Birthplace: North Carolina, United States
+Father's Birthplace: South Carolina, United States
+Mother's Birthplace: North Carolina, United States
+Relationship to Head of Household: Self
+Relationship to Head of Household (Original): Self
+Sheet Letter: B
+Sheet Number: 421
+Person Number: 0
+Volume: 1
 
 
-
-
-
-Name:	
-Sarah F Teal
- • 
-Event Type:	
-Census
-Event Date:	
-1920
-Event Place:	
-Morven, Anson, North Carolina, United States
-Gender:	
-Female
-Age:	
-16
-Marital Status:	
-Single
-Race:	
-White
-Race (Original):	
-White
-Relationship to Head of Household:	
-Daughter
-Relationship to Head of Household (Original):	
-Daughter
-Birth Year (Estimated):	
-1904
-Birthplace:	
-North Carolina
-Father's Birthplace:	
-North Carolina
-Mother's Birthplace:	
-South Carolina
-Sheet Letter:	
-B
-Sheet Number:	
-1
 Household	Role	Sex	Age	Birthplace
-John H Northcutt	Head	Male	38	North Carolina
-Sarah E Northcutt	Wife	Female	47	South Carolina
-Sarah F Teal	Daughter	Female	16	North Carolina
-William P Teal	Son	Male	15	North Carolina
-Nasazea E Northcutt	Daughter	Female	13	North Carolina
-Attached to:
+Lewis Griggs	Self	M	33	North Carolina, United States
+Harriet Griggs	Wife	F	30	North Carolina, United States
+James E. Griggs	Son	M	10	North Carolina, United States
+John Griggs	Son	M	8	North Carolina, United States
+Susan Griggs	Daughter	F	6	North Carolina, United States
+Mollie A. Griggs	Daughter	F	5	North Carolina, United States
+Catharine E. Griggs	Daughter	F	4	North Carolina, United States
 
-Sadie Frances Teal
-1903–1982	 • 	L6F7-1D9??
-Image of Sarah F Teal in household of John H Northcutt, United States Census, 1920
-View the original document. The original may contain more information than was indexed.
+District: ED 6
+Sheet Number and Letter: 421B
+Household ID: 14236501
+Affiliate Name: The U.S. National Archives and Records Administration (NARA)
+Affiliate Publication Number: T9
+Affiliate Film Number: 0951
+GS Film Number: 1254951
+Digital Folder Number: 005161752
+Image Number: 00638
+Record Number: 53822076
 
-Record Collection:
-
-United States Census, 1920
-
-
-Document Information:
-District	ED 12
-Sheet Number and Letter	1B
-Household ID	19
-Line Number	85
-Affiliate Name	The U.S. National Archives and Records Administration (NARA)
-Affiliate Publication Number	T625
-Affiliate Film Number	1283
-GS Film Number	1821283
-Digital Folder Number	004966779
-Image Number	00934
 Citing this Record
-"United States Census, 1920," database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:MZKM-V6T : accessed 17 October 2019), Sarah F Teal in household of John H Northcutt, Morven, Anson, North Carolina, United States; citing ED 12, sheet 1B, line 87, family 19, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1283; FHL microfilm 1,821,283.
-
-Similar Historical Records
-No similar records were found.
-
-About Blog Feedback Site Map Solutions Gallery Cookie Preferences English
-FamilySearch Terms of Use (Updated 2018-09-01) | Privacy Notice (Updated 2018-09-01)
-© 2019 by Intellectual Reserve, Inc. All rights reserved. A service provided by The Church of Jesus Christ of Latter-day Saints
-
-
-
-
-Skip main navigation
-Family Search	
-Family Tree
- 
-Search
- 
-Memories
- 
-Indexing
-  
-Records Family Tree Genealogies Catalog Books Wiki
-
-
-Female
-Sadie Frances Teal
-1903–1982	 • 	L6F7-1D9??
-
-Show More
-Birth
-25 February 1903
-Morven Township, Anson, North Carolina, United States
-Death
-22 November 1982
-North Carolina, United States
-Spouse
-Male
-Sidney Browten Lowery
-Parents
-Male
-William Ezekiel Teal
-Female
-Sarah Elizabeth Griggs
-Name editing is now available on some of our historical records. We are working diligently to make more records editable. You can access this feature if there is a blue “Edit” link next to a name. To learn more about editing names click here.
-
-Sadie F Lowery
-United States Census, 1940
-
-
-
-
-
-Name:	
-Sadie F Lowery
- • 
-Event Type:	
-Census
-Event Date:	
-1940
-Event Place:	
-Wolf Pit Township, Richmond, North Carolina, United States
-Gender:	
-Female
-Age:	
-37
-Marital Status:	
-Married
-Race:	
-White
-Race (Original):	
-White
-Relationship to Head of Household:	
-Wife
-Relationship to Head of Household (Original):	
-Wife
-Birthplace:	
-North Carolina
-Birth Year (Estimated):	
-1903
-Last Place of Residence:	
-Same Place
-Household	Role	Sex	Age	Birthplace
-Sydney B Lowery	Head	Male	43	North Carolina
-Sadie F Lowery	Wife	Female	37	North Carolina
-Edward Lowery	Son	Male	17	North Carolina
-Stearley Lowery	Son	Male	16	North Carolina
-Boyad Lowery	Son	Male	13	North Carolina
-Betty Fay Lowery	Daughter	Female	8	North Carolina
-Attached to:
-
-Sadie Frances Teal
-1903–1982	 • 	L6F7-1D9??
-Image of Sadie F Lowery in household of Sydney B Lowery, United States Census, 1940
-View the original document. The original may contain more information than was indexed.
-
-Record Collection:
-
-United States Census, 1940
-
-
-Document Information:
-District	77-21
-Family Number	43
-Sheet Number and Letter	4A
-Line Number	32
-Affiliate Publication Number	T627
-Affiliate Film Number	2963
-Digital Folder Number	005460322
-Image Number	00774
-Citing this Record
-"United States Census, 1940," database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:KW71-P2C : 29 July 2019), Sadie F Lowery in household of Sydney B Lowery, Wolf Pit Township, Richmond, North Carolina, United States; citing enumeration district (ED) 77-21, sheet 4A, line 33, family 43, Sixteenth Census of the United States, 1940, NARA digital publication T627. Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 2963.
-
-Similar Historical Records
-Sadie Teal
-North Carolina Deaths, 1931-1994
-View attached tree person(s)
-Sadie Francis Teal
-North Carolina, County Marriages, 1762-1979
-View attached tree person(s)
-Sadie Teal
-North Carolina Deaths, 1931-1994
-View attached tree person(s)
-Sadie Teal
-North Carolina Birth Index, 1800-2000
-View attached tree person(s)
-About Blog Feedback Site Map Solutions Gallery Cookie Preferences English
-FamilySearch Terms of Use (Updated 2018-09-01) | Privacy Notice (Updated 2018-09-01)
-© 2019 by Intellectual Reserve, Inc. All rights reserved. A service provided by The Church of Jesus Christ of Latter-day Saints
-
-
-
-
+"United States Census, 1880," database with images, FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MC6H-75L : 13 November 2020), Lewis Griggs, Anson, North Carolina, United States; citing enumeration district ED 6, sheet 421B, NARA microfilm publication T9 (Washington, D.C.: National Archives and Records Administration, n.d.), FHL microfilm 1,254,951.
